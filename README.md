@@ -9,7 +9,7 @@
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/Dark-Xploit"><img title="Author" src="https://img.shields.io/badge/DN-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://chat.whatsapp.com/Eg8CsaV9k7vC0KJ36L0GOb?mode=hqrt3"><img title="Author" src="https://img.shields.io/badge/DN-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 
 <p align="center">
